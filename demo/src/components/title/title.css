@@ -1,0 +1,32 @@
+#title{
+    width:100%;
+    height:.88rem;
+    background: #31c27c;
+    position: relative;
+    top:0;
+    left:0;
+    padding-top:.18rem;
+    padding-left:.2rem;
+}
+#title>.pic{
+    width:1.8rem;
+    height:.5rem;
+   
+}
+#title>.pic>img{
+    width:100%;
+    height:100%;
+    color:white;
+}
+#title>.btn_download{
+    position: absolute;
+    display: block;
+    right: .2rem;
+    top: .16rem;
+    height: .56rem;
+    padding: 0 .24rem;
+    border-radius: 1.98rem; 
+    font: .28rem/.56rem "hiragino sans gb",arial;
+    background: #149c5a;
+    color: #fff;
+}
